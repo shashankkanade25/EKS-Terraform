@@ -4,6 +4,8 @@ This project provisions an Amazon Elastic Kubernetes Service (EKS) cluster on AW
 
 ## 🚀 Architecture
 
+<img src = "https://github.com/shashankkanade25/EKS-Terraform/blob/main/EKS_Architecture.png?raw=true">
+
 The infrastructure includes:
 
 - Amazon EKS Cluster
